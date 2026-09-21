@@ -100,9 +100,7 @@ I'm currently focusing on projects that combine modern frontend development, API
 
 ## Connect
 
-**GitHub:** [github.com/kushan2210-tech](https://github.com/kushan2210-tech)
-
-**LinkedIn:** Kushan Ranjan
+**LinkedIn:** https://www.linkedin.com/in/kushan-ranjan
 
 
 
